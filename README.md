@@ -1,5 +1,8 @@
 # Customer Risk Classification and Future Value Prediction
 
+![image](https://github.com/user-attachments/assets/94959981-6820-4e33-945f-82637199e16d)
+
+
 This project was developed in response to a technical assessment from WonderMatrix.  
 The objective was to analyse customer betting behaviour and:
 
