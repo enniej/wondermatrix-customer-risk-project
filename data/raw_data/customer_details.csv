@@ -1,0 +1,1001 @@
+,customer_id,gender,currency,payment_method,country
+0,81371924,Male,TR,Credit Card,Turkey
+1,79108293,Unassigned,TR,Debit Card,Turkey
+2,98009392,M,USD,Wire Transfer,United States of America
+3,89162307,M,USD,Prepaid Card,United States
+4,61247122,Unassigned,TR,Wire Transfer,Turkey
+5,96234116,Male,USD,Prepaid Card,United States
+6,65975746,Unassigned,GBP,Prepaid Card,UK
+7,69288972,Female,USD,Credit Card,United States of America
+8,59089458,Unassigned,USD,Prepaid Card,United States
+9,35897238,M,GBP,Prepaid Card,United Kingdom
+10,67827992,Unassigned,USD,Prepaid Card,United States
+11,10699049,F,TR,Wire Transfer,Turkey
+12,77865752,Female,TR,Prepaid Card,Turkey
+13,93328974,Unassigned,TR,Debit Card,Turkey
+14,89469952,M,GBP,Prepaid Card,United Kingdom
+15,92750774,Female,USD,Debit Card,United States of America
+16,74150464,F,GBP,Wire Transfer,United Kingdom
+17,40561675,F,GBP,Debit Card,United Kingdom
+18,55832088,Female,TR,Prepaid Card,Turkey
+19,12580651,M,USD,Wire Transfer,United States of America
+20,78955051,Unassigned,USD,Wire Transfer,United States of America
+21,29231998,M,USD,Wire Transfer,United States of America
+22,87424465,F,GBP,Null,United Kingdom
+23,19717462,Female,GBP,Debit Card,United Kingdom
+24,89750345,M,GBP,Debit Card,United Kingdom
+25,79883676,Female,GBP,Prepaid Card,Britain
+26,37486517,Female,GBP,Credit Card,United Kingdom
+27,67308927,Male,TR,Credit Card,Turkey
+28,55794781,Female,GBP,Wire Transfer,United Kingdom
+29,16055766,M,GBP,Wire Transfer,Britain
+30,75398513,F,USD,Wire Transfer,United States
+31,52106849,U,TR,Debit Card,Turkey
+32,11156560,M,USD,Credit Card,United States of America
+33,62644219,Male,GBP,Wire Transfer,Britain
+34,12025905,Male,TR,Null,Turkey
+35,58249512,Male,USD,Prepaid Card,United States
+36,31812675,Male,GBP,Credit Card,United Kingdom
+37,94427851,F,TR,Prepaid Card,Turkey
+38,81409400,Female,GBP,Wire Transfer,Britain
+39,88344523,Unassigned,USD,Debit Card,United States of America
+40,48366441,Male,TR,Debit Card,Turkey
+41,75152881,Male,USD,Null,United States
+42,94681222,F,USD,Wire Transfer,United States of America
+43,45584009,Unassigned,GBP,Wire Transfer,Britain
+44,69342295,F,USD,Credit Card,United States
+45,81578349,Male,TR,Credit Card,Turkey
+46,92572299,M,TR,Prepaid Card,Turkey
+47,93022604,Unassigned,GBP,Debit Card,UK
+48,93084328,Male,USD,Wire Transfer,United States of America
+49,52022854,U,GBP,Prepaid Card,United Kingdom
+50,28681546,Male,USD,Debit Card,United States
+51,93006880,Unassigned,USD,Wire Transfer,United States of America
+52,71279844,Male,USD,Wire Transfer,United States of America
+53,47251268,Female,USD,Wire Transfer,United States of America
+54,12822195,U,TR,Wire Transfer,Turkey
+55,87081481,Unassigned,GBP,Debit Card,UK
+56,72344884,F,TR,Null,Turkey
+57,28345936,M,TR,Credit Card,Turkey
+58,89181542,F,GBP,Prepaid Card,UK
+59,37925962,F,TR,Wire Transfer,Turkey
+60,34481651,Male,GBP,Credit Card,United Kingdom
+61,31372514,Unassigned,TR,Debit Card,Turkey
+62,21178856,M,USD,Null,United States
+63,20983940,Female,USD,Credit Card,United States
+64,24466789,Male,TR,Wire Transfer,Turkey
+65,43217500,F,USD,Null,United States
+66,27959705,M,USD,Null,United States
+67,97667995,Male,TR,Prepaid Card,Turkey
+68,41842099,F,TR,Credit Card,Turkey
+69,16898114,U,TR,Credit Card,Turkey
+70,12043512,Male,USD,Prepaid Card,United States of America
+71,98952321,Female,TR,Credit Card,Turkey
+72,78191268,Null,GBP,Prepaid Card,UK
+73,33621567,M,USD,Prepaid Card,United States
+74,92267505,U,USD,Wire Transfer,United States of America
+75,97879140,Unassigned,TR,Debit Card,Turkey
+76,59137943,U,TR,Credit Card,Turkey
+77,56930686,F,TR,Debit Card,Turkey
+78,84186950,U,USD,Credit Card,United States
+79,89015445,M,TR,Credit Card,Turkey
+80,19618644,Female,GBP,Credit Card,Britain
+81,92009632,U,TR,Credit Card,Turkey
+82,82418957,F,USD,Debit Card,United States
+83,93617012,F,GBP,Wire Transfer,UK
+84,64379484,Female,TR,Prepaid Card,Turkey
+85,25221328,U,GBP,Prepaid Card,United Kingdom
+86,17309058,Male,GBP,Wire Transfer,UK
+87,27835504,Unassigned,GBP,Credit Card,UK
+88,80402068,F,TR,Debit Card,Turkey
+89,25255464,M,GBP,Debit Card,UK
+90,50838478,F,USD,Credit Card,United States of America
+91,97829520,F,USD,Prepaid Card,United States
+92,95846975,U,TR,Wire Transfer,Turkey
+93,64328913,Female,GBP,Credit Card,UK
+94,62050340,Female,GBP,Credit Card,UK
+95,18901255,U,USD,Debit Card,United States of America
+96,94801641,F,USD,Credit Card,United States of America
+97,29829527,Female,USD,Debit Card,United States
+98,71145108,Male,Null,Prepaid Card,Unknown
+99,65746049,F,GBP,Prepaid Card,UK
+100,53099677,F,USD,Credit Card,United States of America
+101,53357993,Female,USD,Prepaid Card,United States of America
+102,29518174,Unassigned,USD,Prepaid Card,United States
+103,91999201,Unassigned,USD,Prepaid Card,United States of America
+104,14143624,F,USD,Credit Card,United States of America
+105,68718235,Unassigned,TR,Debit Card,Turkey
+106,55183236,F,GBP,Debit Card,UK
+107,18739416,M,Null,Null,Unknown
+108,37096835,Unassigned,TR,Debit Card,Turkey
+109,78900434,M,GBP,Prepaid Card,UK
+110,22476940,F,USD,Wire Transfer,United States
+111,97909370,F,TR,Debit Card,Turkey
+112,10251864,Unassigned,USD,Wire Transfer,United States
+113,10260456,F,GBP,Prepaid Card,UK
+114,59497042,M,GBP,Debit Card,UK
+115,26641773,Unassigned,GBP,Wire Transfer,UK
+116,80455235,Unassigned,GBP,Prepaid Card,Britain
+117,63733700,M,Null,Credit Card,Unknown
+118,22700993,U,USD,Credit Card,United States of America
+119,29920745,U,GBP,Credit Card,UK
+120,65266389,U,USD,Debit Card,United States of America
+121,76555495,Null,TR,Debit Card,Turkey
+122,50198630,Female,TR,Wire Transfer,Turkey
+123,40928800,Unassigned,GBP,Wire Transfer,United Kingdom
+124,38379914,Male,TR,Credit Card,Turkey
+125,96401688,M,USD,Prepaid Card,United States of America
+126,92816263,U,TR,Prepaid Card,Turkey
+127,52655797,U,GBP,Debit Card,UK
+128,80806580,U,GBP,Credit Card,Britain
+129,15863193,M,GBP,Wire Transfer,United Kingdom
+130,97180913,F,USD,Debit Card,United States of America
+131,12485353,U,GBP,Prepaid Card,UK
+132,75459827,M,USD,Debit Card,United States of America
+133,57944953,M,GBP,Wire Transfer,United Kingdom
+134,14418487,Unassigned,TR,Prepaid Card,Turkey
+135,82065774,Null,USD,Wire Transfer,United States of America
+136,44030034,U,TR,Debit Card,Turkey
+137,87121284,U,TR,Credit Card,Turkey
+138,23012040,F,TR,Prepaid Card,Turkey
+139,21822811,Unassigned,TR,Credit Card,Turkey
+140,33699140,Female,TR,Wire Transfer,Turkey
+141,65681554,F,GBP,Prepaid Card,United Kingdom
+142,85112284,Female,USD,Credit Card,United States
+143,15129189,F,GBP,Wire Transfer,Britain
+144,78655054,M,TR,Prepaid Card,Turkey
+145,68330118,M,USD,Prepaid Card,United States
+146,57813223,M,TR,Prepaid Card,Turkey
+147,80389207,M,USD,Wire Transfer,United States of America
+148,31304297,Female,GBP,Debit Card,Britain
+149,97187115,Unassigned,TR,Prepaid Card,Turkey
+150,66288803,Male,TR,Null,Turkey
+151,15390532,U,TR,Debit Card,Turkey
+152,29716457,Unassigned,USD,Prepaid Card,United States of America
+153,20605859,Female,TR,Credit Card,Turkey
+154,18302111,Female,TR,Wire Transfer,Turkey
+155,96918357,Male,USD,Prepaid Card,United States of America
+156,51109271,Male,USD,Wire Transfer,United States of America
+157,58986478,Male,USD,Wire Transfer,United States
+158,87528396,U,TR,Credit Card,Turkey
+159,37928994,U,TR,Prepaid Card,Turkey
+160,75249803,M,USD,Debit Card,United States of America
+161,85143087,Female,TR,Wire Transfer,Turkey
+162,22616373,Unassigned,USD,Wire Transfer,United States
+163,36722645,Unassigned,USD,Credit Card,United States
+164,17468367,M,TR,Prepaid Card,Turkey
+165,44872190,Unassigned,GBP,Credit Card,United Kingdom
+166,16582147,F,USD,Credit Card,United States of America
+167,53408967,Unassigned,GBP,Debit Card,UK
+168,82724096,Male,USD,Debit Card,United States
+169,70632494,M,GBP,Debit Card,Britain
+170,75578855,M,USD,Wire Transfer,United States of America
+171,99839719,F,TR,Debit Card,Turkey
+172,34812901,Male,USD,Prepaid Card,United States of America
+173,88556166,F,TR,Debit Card,Turkey
+174,59803064,Female,GBP,Debit Card,Britain
+175,70618667,F,TR,Debit Card,Turkey
+176,38492053,Unassigned,GBP,Prepaid Card,United Kingdom
+177,66519593,F,USD,Credit Card,United States
+178,71649876,M,USD,Prepaid Card,United States
+179,50425118,Male,TR,Prepaid Card,Turkey
+180,35787556,U,TR,Wire Transfer,Turkey
+181,46374748,F,GBP,Debit Card,United Kingdom
+182,64426919,F,TR,Prepaid Card,Turkey
+183,80191616,F,GBP,Debit Card,United Kingdom
+184,34605097,Male,USD,Credit Card,United States
+185,40853538,Female,USD,Prepaid Card,United States of America
+186,95038318,M,GBP,Credit Card,Britain
+187,12524201,Unassigned,GBP,Prepaid Card,Britain
+188,17573876,U,GBP,Wire Transfer,UK
+189,42741830,Unassigned,GBP,Prepaid Card,UK
+190,49303821,U,USD,Wire Transfer,United States of America
+191,33308818,U,TR,Debit Card,Turkey
+192,83207876,Male,USD,Debit Card,United States of America
+193,98599660,M,TR,Credit Card,Turkey
+194,87808585,U,TR,Wire Transfer,Turkey
+195,34208486,Male,TR,Wire Transfer,Turkey
+196,95447118,U,USD,Prepaid Card,United States of America
+197,34473310,Female,TR,Credit Card,Turkey
+198,35467779,F,TR,Debit Card,Turkey
+199,16582836,U,TR,Debit Card,Turkey
+200,34468266,U,GBP,Wire Transfer,Britain
+201,80190369,M,TR,Wire Transfer,Turkey
+202,92463496,Unassigned,USD,Prepaid Card,United States of America
+203,58750321,Male,USD,Wire Transfer,United States of America
+204,40220133,U,TR,Prepaid Card,Turkey
+205,87112325,Unassigned,GBP,Wire Transfer,United Kingdom
+206,66152449,F,USD,Credit Card,United States of America
+207,38466519,U,USD,Wire Transfer,United States
+208,45421007,U,GBP,Wire Transfer,UK
+209,21926091,Female,USD,Wire Transfer,United States of America
+210,43805095,Unassigned,TR,Prepaid Card,Turkey
+211,29061529,Male,GBP,Debit Card,Britain
+212,62146932,U,USD,Null,United States of America
+213,12535876,U,USD,Prepaid Card,United States of America
+214,34031147,M,GBP,Credit Card,UK
+215,25587624,Male,GBP,Prepaid Card,United Kingdom
+216,11183875,F,GBP,Debit Card,UK
+217,91588588,F,USD,Prepaid Card,United States
+218,40577028,F,GBP,Credit Card,United Kingdom
+219,66572356,Unassigned,TR,Prepaid Card,Turkey
+220,91053681,Unassigned,TR,Wire Transfer,Turkey
+221,84562736,M,GBP,Debit Card,Britain
+222,13921007,F,USD,Wire Transfer,United States
+223,75825774,Male,GBP,Debit Card,United Kingdom
+224,12719017,M,USD,Debit Card,United States
+225,93037411,Female,USD,Debit Card,United States of America
+226,83014223,M,TR,Debit Card,Turkey
+227,72975029,Male,GBP,Credit Card,Britain
+228,68834504,M,TR,Prepaid Card,Turkey
+229,50107338,Unassigned,USD,Prepaid Card,United States
+230,28716536,U,TR,Prepaid Card,Turkey
+231,96260816,Null,TR,Prepaid Card,Turkey
+232,43602883,F,TR,Credit Card,Turkey
+233,84285798,M,GBP,Debit Card,United Kingdom
+234,19736912,M,TR,Prepaid Card,Turkey
+235,49346148,Female,Null,Null,Unknown
+236,55009080,M,TR,Prepaid Card,Turkey
+237,23319508,Unassigned,USD,Wire Transfer,United States of America
+238,21790411,M,GBP,Prepaid Card,United Kingdom
+239,62665630,Null,GBP,Debit Card,Britain
+240,74576931,Male,USD,Debit Card,United States of America
+241,75973634,Male,GBP,Debit Card,UK
+242,67704670,M,GBP,Null,United Kingdom
+243,23479279,F,TR,Prepaid Card,Turkey
+244,34698314,F,GBP,Prepaid Card,United Kingdom
+245,42516014,U,GBP,Prepaid Card,Britain
+246,35727151,Female,USD,Wire Transfer,United States
+247,86574174,Unassigned,USD,Credit Card,United States
+248,40575565,M,GBP,Credit Card,UK
+249,61061628,U,GBP,Debit Card,UK
+250,63407453,M,TR,Debit Card,Turkey
+251,33463877,Female,TR,Wire Transfer,Turkey
+252,79420478,Male,USD,Debit Card,United States
+253,33792138,M,GBP,Debit Card,United Kingdom
+254,94091452,F,GBP,Credit Card,UK
+255,38030319,Unassigned,TR,Debit Card,Turkey
+256,49786864,M,USD,Credit Card,United States
+257,93734386,U,GBP,Debit Card,Britain
+258,74508043,M,USD,Credit Card,United States
+259,49709898,Male,GBP,Wire Transfer,Britain
+260,73875030,M,GBP,Debit Card,UK
+261,24264531,F,GBP,Credit Card,Britain
+262,52844935,U,USD,Prepaid Card,United States of America
+263,28357202,F,GBP,Debit Card,United Kingdom
+264,77146115,Unassigned,TR,Null,Turkey
+265,95852456,Unassigned,USD,Credit Card,United States of America
+266,34800288,Unassigned,GBP,Credit Card,Britain
+267,11756685,M,GBP,Debit Card,United Kingdom
+268,77452074,Male,USD,Credit Card,United States
+269,46127551,U,TR,Prepaid Card,Turkey
+270,80460837,F,TR,Debit Card,Turkey
+271,31131317,Null,TR,Prepaid Card,Turkey
+272,49597990,U,TR,Wire Transfer,Turkey
+273,98791113,Unassigned,GBP,Credit Card,United Kingdom
+274,83306741,U,USD,Prepaid Card,United States
+275,16005336,Unassigned,GBP,Debit Card,United Kingdom
+276,78433471,F,GBP,Wire Transfer,United Kingdom
+277,71870393,M,GBP,Wire Transfer,United Kingdom
+278,99698504,Male,Null,Debit Card,Unknown
+279,96598015,M,GBP,Prepaid Card,Britain
+280,13263574,M,USD,Prepaid Card,United States
+281,39115329,Male,USD,Credit Card,United States
+282,85956863,U,TR,Prepaid Card,Turkey
+283,49276623,Unassigned,TR,Prepaid Card,Turkey
+284,86731072,Male,GBP,Debit Card,UK
+285,70569471,Male,TR,Prepaid Card,Turkey
+286,29054789,M,Null,Prepaid Card,Unknown
+287,29690736,M,USD,Wire Transfer,United States of America
+288,38542625,Female,GBP,Wire Transfer,Britain
+289,39087528,Unassigned,GBP,Debit Card,Britain
+290,38810570,Unassigned,TR,Prepaid Card,Turkey
+291,14743522,F,TR,Debit Card,Turkey
+292,83810728,Male,Null,Debit Card,Unknown
+293,43792989,M,USD,Wire Transfer,United States
+294,34965685,U,USD,Prepaid Card,United States of America
+295,32536215,Male,TR,Wire Transfer,Turkey
+296,28591068,Unassigned,GBP,Credit Card,United Kingdom
+297,66601688,Unassigned,TR,Credit Card,Turkey
+298,89045842,Male,USD,Wire Transfer,United States
+299,68587521,F,USD,Wire Transfer,United States
+300,63145161,Male,Null,Wire Transfer,Unknown
+301,46695942,U,USD,Credit Card,United States
+302,76175942,U,USD,Prepaid Card,United States
+303,45027527,F,TR,Credit Card,Turkey
+304,63703608,M,USD,Debit Card,United States
+305,81725722,Male,TR,Credit Card,Turkey
+306,50302856,M,USD,Debit Card,United States of America
+307,56409471,Male,TR,Debit Card,Turkey
+308,13228923,Unassigned,GBP,Debit Card,United Kingdom
+309,94487052,Unassigned,GBP,Prepaid Card,United Kingdom
+310,13725035,U,GBP,Prepaid Card,UK
+311,22520961,Male,TR,Wire Transfer,Turkey
+312,94778955,F,TR,Wire Transfer,Turkey
+313,58155606,U,USD,Prepaid Card,United States
+314,35986202,Male,GBP,Credit Card,Britain
+315,97547577,Female,TR,Debit Card,Turkey
+316,77241565,Male,Null,Debit Card,Unknown
+317,82667674,F,TR,Prepaid Card,Turkey
+318,49475174,U,USD,Prepaid Card,United States
+319,57631380,Male,TR,Wire Transfer,Turkey
+320,26885969,Female,GBP,Prepaid Card,Britain
+321,20819451,Male,USD,Prepaid Card,United States of America
+322,65042302,Null,USD,Prepaid Card,United States
+323,12081478,Null,USD,Debit Card,United States
+324,55302008,M,TR,Credit Card,Turkey
+325,31577221,F,GBP,Debit Card,UK
+326,85492215,U,GBP,Credit Card,United Kingdom
+327,96821884,F,GBP,Debit Card,Britain
+328,35191547,M,GBP,Prepaid Card,UK
+329,86619741,M,TR,Credit Card,Turkey
+330,22786778,F,TR,Prepaid Card,Turkey
+331,93605650,M,USD,Wire Transfer,United States
+332,57518424,Male,GBP,Debit Card,United Kingdom
+333,55900389,U,USD,Debit Card,United States
+334,15241484,U,USD,Debit Card,United States
+335,68451355,M,USD,Credit Card,United States
+336,78530639,Unassigned,USD,Debit Card,United States of America
+337,21977061,F,USD,Prepaid Card,United States
+338,97800227,Male,TR,Credit Card,Turkey
+339,67488132,M,USD,Credit Card,United States
+340,87810684,Female,TR,Prepaid Card,Turkey
+341,98429126,Male,GBP,Prepaid Card,UK
+342,53847732,F,USD,Prepaid Card,United States of America
+343,96279217,M,TR,Credit Card,Turkey
+344,20053880,Male,USD,Credit Card,United States
+345,15050617,M,USD,Credit Card,United States of America
+346,33462879,Female,USD,Credit Card,United States
+347,43214666,Male,USD,Credit Card,United States of America
+348,67555592,Female,TR,Wire Transfer,Turkey
+349,89014542,M,USD,Prepaid Card,United States
+350,48712653,M,Null,Wire Transfer,Unknown
+351,90379222,M,USD,Debit Card,United States of America
+352,87804646,Unassigned,USD,Debit Card,United States
+353,18574794,Male,USD,Wire Transfer,United States of America
+354,61121967,Female,USD,Prepaid Card,United States
+355,27213038,Unassigned,USD,Wire Transfer,United States
+356,43464888,Male,USD,Credit Card,United States
+357,23209788,U,USD,Credit Card,United States of America
+358,68309562,Unassigned,GBP,Credit Card,United Kingdom
+359,49850156,M,GBP,Prepaid Card,UK
+360,13141119,U,USD,Wire Transfer,United States of America
+361,55858940,U,USD,Wire Transfer,United States
+362,85195856,U,USD,Credit Card,United States
+363,13756881,Unassigned,GBP,Wire Transfer,UK
+364,11178287,U,Null,Wire Transfer,Unknown
+365,45371474,Female,USD,Credit Card,United States
+366,24105283,Female,GBP,Wire Transfer,UK
+367,29277259,F,USD,Wire Transfer,United States
+368,17666547,Female,GBP,Debit Card,United Kingdom
+369,59737967,U,USD,Wire Transfer,United States
+370,63453261,F,GBP,Debit Card,Britain
+371,75015159,M,USD,Debit Card,United States
+372,55090945,Male,GBP,Debit Card,Britain
+373,35223676,Unassigned,USD,Wire Transfer,United States
+374,65647038,Male,TR,Wire Transfer,Turkey
+375,56291580,U,USD,Prepaid Card,United States
+376,40713753,F,TR,Debit Card,Turkey
+377,87191390,Unassigned,TR,Prepaid Card,Turkey
+378,17882160,Male,TR,Wire Transfer,Turkey
+379,50563101,Female,TR,Debit Card,Turkey
+380,32010539,Female,GBP,Prepaid Card,Britain
+381,29756780,M,USD,Debit Card,United States
+382,19614457,F,GBP,Credit Card,United Kingdom
+383,36894295,Male,GBP,Wire Transfer,UK
+384,64932799,Null,USD,Wire Transfer,United States
+385,55294734,U,USD,Debit Card,United States of America
+386,47132110,Unassigned,GBP,Wire Transfer,Britain
+387,84950484,M,TR,Prepaid Card,Turkey
+388,14780915,Female,TR,Debit Card,Turkey
+389,75523121,M,TR,Wire Transfer,Turkey
+390,72107821,Male,GBP,Wire Transfer,United Kingdom
+391,57803251,M,USD,Debit Card,United States of America
+392,44582342,Unassigned,GBP,Credit Card,UK
+393,59502660,U,GBP,Debit Card,Britain
+394,86774774,Female,TR,Debit Card,Turkey
+395,76746008,Unassigned,USD,Prepaid Card,United States of America
+396,39760805,Female,GBP,Prepaid Card,United Kingdom
+397,86149703,Female,TR,Prepaid Card,Turkey
+398,97765671,U,USD,Credit Card,United States of America
+399,22333646,Unassigned,USD,Debit Card,United States
+400,83369506,Female,USD,Debit Card,United States
+401,74974099,M,USD,Prepaid Card,United States
+402,46028171,Unassigned,USD,Credit Card,United States
+403,81366512,Unassigned,USD,Null,United States of America
+404,88100771,M,USD,Wire Transfer,United States of America
+405,70987808,F,TR,Credit Card,Turkey
+406,32518076,Male,USD,Wire Transfer,United States of America
+407,85646931,M,TR,Wire Transfer,Turkey
+408,11842553,Female,TR,Credit Card,Turkey
+409,14976094,U,TR,Wire Transfer,Turkey
+410,45717930,M,TR,Wire Transfer,Turkey
+411,43075425,Female,GBP,Prepaid Card,Britain
+412,66466816,F,GBP,Credit Card,Britain
+413,91524383,F,TR,Debit Card,Turkey
+414,75483638,Female,USD,Credit Card,United States of America
+415,54917507,Female,TR,Prepaid Card,Turkey
+416,96423514,Null,GBP,Debit Card,UK
+417,45390197,Male,USD,Credit Card,United States of America
+418,99537256,Unassigned,TR,Null,Turkey
+419,87635140,M,TR,Wire Transfer,Turkey
+420,84377323,Male,GBP,Debit Card,Britain
+421,25986988,Female,USD,Credit Card,United States of America
+422,98345852,Unassigned,USD,Credit Card,United States of America
+423,83275486,U,TR,Credit Card,Turkey
+424,33886834,U,GBP,Credit Card,UK
+425,87324048,M,TR,Wire Transfer,Turkey
+426,49147780,Female,USD,Wire Transfer,United States of America
+427,72046247,Male,GBP,Credit Card,Britain
+428,64255519,M,USD,Prepaid Card,United States
+429,57986979,Male,USD,Debit Card,United States
+430,86637773,M,GBP,Credit Card,United Kingdom
+431,39873244,M,GBP,Credit Card,UK
+432,32294207,Female,USD,Credit Card,United States
+433,42858884,F,TR,Wire Transfer,Turkey
+434,65060615,F,GBP,Wire Transfer,United Kingdom
+435,98259979,M,USD,Debit Card,United States of America
+436,25527875,U,GBP,Prepaid Card,Britain
+437,37160660,U,TR,Prepaid Card,Turkey
+438,45869538,Unassigned,GBP,Wire Transfer,United Kingdom
+439,64115414,Unassigned,USD,Prepaid Card,United States of America
+440,76671031,Unassigned,GBP,Prepaid Card,UK
+441,17993192,U,TR,Credit Card,Turkey
+442,63689421,U,TR,Prepaid Card,Turkey
+443,60446228,Null,GBP,Wire Transfer,UK
+444,70080088,F,TR,Credit Card,Turkey
+445,10597140,Unassigned,GBP,Credit Card,UK
+446,80978446,M,USD,Debit Card,United States of America
+447,23963416,M,TR,Credit Card,Turkey
+448,75798839,M,USD,Credit Card,United States
+449,53962299,M,USD,Prepaid Card,United States
+450,52673971,F,USD,Prepaid Card,United States of America
+451,39898150,Male,GBP,Debit Card,UK
+452,10689740,M,TR,Credit Card,Turkey
+453,19227517,Unassigned,GBP,Debit Card,Britain
+454,40237632,Unassigned,USD,Prepaid Card,United States of America
+455,80188924,Female,USD,Prepaid Card,United States
+456,96444187,F,GBP,Prepaid Card,Britain
+457,83413858,Unassigned,GBP,Prepaid Card,United Kingdom
+458,67853338,M,TR,Prepaid Card,Turkey
+459,37737294,Null,USD,Wire Transfer,United States of America
+460,14798930,M,TR,Wire Transfer,Turkey
+461,21674934,Unassigned,USD,Wire Transfer,United States
+462,56954770,Male,GBP,Debit Card,UK
+463,77413256,Female,USD,Wire Transfer,United States
+464,39639622,M,GBP,Debit Card,UK
+465,76793093,M,USD,Credit Card,United States of America
+466,20481430,Unassigned,GBP,Debit Card,Britain
+467,84821729,U,USD,Credit Card,United States of America
+468,13609744,Male,GBP,Debit Card,Britain
+469,36107556,Male,USD,Debit Card,United States of America
+470,61429218,Null,USD,Wire Transfer,United States of America
+471,15654511,Male,TR,Null,Turkey
+472,78109913,Female,TR,Debit Card,Turkey
+473,68811643,Unassigned,GBP,Debit Card,United Kingdom
+474,51454233,Female,USD,Credit Card,United States
+475,90944758,Male,USD,Wire Transfer,United States of America
+476,90440323,Unassigned,USD,Debit Card,United States
+477,38920891,Male,TR,Credit Card,Turkey
+478,85288205,Female,GBP,Wire Transfer,UK
+479,56198980,Male,USD,Credit Card,United States of America
+480,81487514,Unassigned,USD,Wire Transfer,United States of America
+481,95275230,Null,GBP,Null,United Kingdom
+482,29981690,U,TR,Prepaid Card,Turkey
+483,72064528,U,TR,Debit Card,Turkey
+484,41533008,U,USD,Null,United States
+485,59027453,Male,USD,Debit Card,United States
+486,12984791,F,GBP,Debit Card,Britain
+487,21316746,M,GBP,Debit Card,United Kingdom
+488,22389871,Unassigned,GBP,Prepaid Card,UK
+489,20719050,Unassigned,TR,Debit Card,Turkey
+490,12853524,Male,GBP,Credit Card,Britain
+491,85880679,F,USD,Credit Card,United States
+492,30999279,M,TR,Credit Card,Turkey
+493,54449915,F,GBP,Credit Card,Britain
+494,99873290,M,TR,Debit Card,Turkey
+495,46968754,M,GBP,Wire Transfer,UK
+496,31150019,Female,GBP,Wire Transfer,United Kingdom
+497,51395412,M,USD,Wire Transfer,United States of America
+498,73312513,M,TR,Debit Card,Turkey
+499,10453186,Unassigned,USD,Null,United States of America
+500,43459913,F,TR,Debit Card,Turkey
+501,88692803,Male,USD,Prepaid Card,United States
+502,49061702,Female,USD,Prepaid Card,United States of America
+503,99325654,Male,GBP,Wire Transfer,Britain
+504,95082000,Female,TR,Wire Transfer,Turkey
+505,22678062,F,TR,Prepaid Card,Turkey
+506,32815763,Unassigned,TR,Credit Card,Turkey
+507,20646205,Unassigned,TR,Wire Transfer,Turkey
+508,74843653,M,USD,Wire Transfer,United States of America
+509,39678235,Male,USD,Debit Card,United States of America
+510,58797496,Female,USD,Wire Transfer,United States of America
+511,88798278,Female,TR,Wire Transfer,Turkey
+512,43848402,M,TR,Credit Card,Turkey
+513,13460018,Male,USD,Prepaid Card,United States of America
+514,82621442,Female,GBP,Credit Card,Britain
+515,78795216,Unassigned,USD,Debit Card,United States
+516,11105759,Male,USD,Credit Card,United States
+517,54821870,Female,TR,Prepaid Card,Turkey
+518,25719943,Null,TR,Prepaid Card,Turkey
+519,85184537,Female,USD,Debit Card,United States
+520,61580505,F,TR,Debit Card,Turkey
+521,38774992,Unassigned,USD,Prepaid Card,United States of America
+522,74757263,F,GBP,Debit Card,United Kingdom
+523,52389467,F,Null,Credit Card,Unknown
+524,18183960,Female,TR,Credit Card,Turkey
+525,76432524,Unassigned,TR,Wire Transfer,Turkey
+526,42258119,Female,TR,Wire Transfer,Turkey
+527,57628210,Null,TR,Prepaid Card,Turkey
+528,41395813,Unassigned,TR,Debit Card,Turkey
+529,95890800,U,USD,Wire Transfer,United States
+530,95090331,F,USD,Prepaid Card,United States of America
+531,88317493,M,TR,Wire Transfer,Turkey
+532,18895224,M,TR,Wire Transfer,Turkey
+533,72727805,U,USD,Debit Card,United States of America
+534,34788698,M,GBP,Credit Card,Britain
+535,77048366,Female,TR,Prepaid Card,Turkey
+536,84015015,Null,TR,Prepaid Card,Turkey
+537,65817151,Null,GBP,Wire Transfer,United Kingdom
+538,15174273,F,GBP,Prepaid Card,United Kingdom
+539,97404907,F,USD,Credit Card,United States of America
+540,79070907,F,GBP,Debit Card,Britain
+541,44741190,U,GBP,Debit Card,UK
+542,41871420,U,TR,Wire Transfer,Turkey
+543,12431140,F,TR,Prepaid Card,Turkey
+544,82296271,M,GBP,Wire Transfer,UK
+545,62093348,F,GBP,Credit Card,Britain
+546,57961716,Unassigned,TR,Debit Card,Turkey
+547,26068760,U,TR,Prepaid Card,Turkey
+548,13714865,U,USD,Prepaid Card,United States
+549,91546382,Male,USD,Debit Card,United States
+550,36279783,U,GBP,Wire Transfer,Britain
+551,46677364,F,GBP,Prepaid Card,Britain
+552,22851922,Male,Null,Null,Unknown
+553,15928591,Female,GBP,Debit Card,United Kingdom
+554,57816875,U,USD,Prepaid Card,United States of America
+555,65395690,M,GBP,Credit Card,Britain
+556,40976235,U,TR,Debit Card,Turkey
+557,45590277,U,TR,Debit Card,Turkey
+558,43872485,M,GBP,Wire Transfer,UK
+559,23444915,Male,TR,Debit Card,Turkey
+560,21438259,M,Null,Prepaid Card,Unknown
+561,20333560,U,GBP,Debit Card,Britain
+562,71875514,U,TR,Wire Transfer,Turkey
+563,43847748,M,TR,Credit Card,Turkey
+564,17043160,Female,GBP,Wire Transfer,UK
+565,79267278,M,GBP,Debit Card,United Kingdom
+566,12809220,U,Null,Wire Transfer,Unknown
+567,78253084,Female,TR,Debit Card,Turkey
+568,26590987,Female,USD,Prepaid Card,United States
+569,28224755,F,GBP,Prepaid Card,UK
+570,16148412,U,TR,Prepaid Card,Turkey
+571,81431223,F,USD,Prepaid Card,United States of America
+572,43881721,M,TR,Prepaid Card,Turkey
+573,53288508,F,USD,Prepaid Card,United States of America
+574,71978775,Male,USD,Wire Transfer,United States
+575,64154531,U,TR,Prepaid Card,Turkey
+576,77030151,F,USD,Wire Transfer,United States of America
+577,33872964,Null,USD,Null,United States
+578,31526564,F,USD,Prepaid Card,United States
+579,21746566,Unassigned,USD,Debit Card,United States of America
+580,35163701,U,TR,Prepaid Card,Turkey
+581,15462975,Female,GBP,Prepaid Card,Britain
+582,43067665,Unassigned,USD,Wire Transfer,United States
+583,30207442,M,GBP,Credit Card,UK
+584,45063542,Female,GBP,Debit Card,UK
+585,92315797,Null,Null,Credit Card,Unknown
+586,25105324,U,USD,Credit Card,United States of America
+587,57005316,Male,GBP,Credit Card,Britain
+588,85190995,Unassigned,TR,Debit Card,Turkey
+589,61866031,Unassigned,TR,Wire Transfer,Turkey
+590,34196853,Null,USD,Credit Card,United States
+591,71705336,Male,GBP,Debit Card,United Kingdom
+592,71518648,U,TR,Debit Card,Turkey
+593,62788975,Unassigned,GBP,Wire Transfer,United Kingdom
+594,85461896,U,GBP,Credit Card,UK
+595,66299663,U,TR,Debit Card,Turkey
+596,88043106,Male,USD,Wire Transfer,United States
+597,25867985,F,USD,Debit Card,United States
+598,90186213,Female,USD,Wire Transfer,United States of America
+599,17202574,F,TR,Prepaid Card,Turkey
+600,59081389,U,USD,Debit Card,United States
+601,20076806,Male,TR,Credit Card,Turkey
+602,73776997,F,USD,Debit Card,United States
+603,45082321,Male,GBP,Credit Card,UK
+604,93436468,Female,Null,Wire Transfer,Unknown
+605,70437511,Unassigned,USD,Wire Transfer,United States
+606,62877874,U,USD,Prepaid Card,United States
+607,10403120,Null,GBP,Debit Card,Britain
+608,11944544,Female,USD,Debit Card,United States of America
+609,91513319,M,USD,Credit Card,United States
+610,14195709,Male,GBP,Prepaid Card,United Kingdom
+611,27323988,Unassigned,TR,Wire Transfer,Turkey
+612,93534704,U,TR,Debit Card,Turkey
+613,53433307,M,GBP,Prepaid Card,UK
+614,68015503,Male,USD,Prepaid Card,United States
+615,18890457,M,TR,Prepaid Card,Turkey
+616,92489038,U,USD,Credit Card,United States of America
+617,34831613,Unassigned,USD,Prepaid Card,United States of America
+618,33387410,Male,USD,Credit Card,United States of America
+619,62962197,F,USD,Wire Transfer,United States of America
+620,40650643,Female,TR,Credit Card,Turkey
+621,90642086,Unassigned,TR,Prepaid Card,Turkey
+622,43030423,Unassigned,TR,Debit Card,Turkey
+623,55763870,Unassigned,TR,Credit Card,Turkey
+624,80527103,F,USD,Wire Transfer,United States of America
+625,85900769,M,Null,Debit Card,Unknown
+626,50753209,Female,TR,Debit Card,Turkey
+627,85849657,Male,USD,Debit Card,United States of America
+628,70240548,F,TR,Credit Card,Turkey
+629,84629550,Male,USD,Credit Card,United States
+630,44007207,U,USD,Prepaid Card,United States of America
+631,16108214,Female,TR,Debit Card,Turkey
+632,82362993,Unassigned,Null,Prepaid Card,Unknown
+633,33828057,Female,GBP,Wire Transfer,United Kingdom
+634,88037217,Female,USD,Debit Card,United States
+635,20055201,M,TR,Credit Card,Turkey
+636,16892291,U,TR,Prepaid Card,Turkey
+637,14664017,Unassigned,GBP,Prepaid Card,Britain
+638,24701788,U,GBP,Debit Card,Britain
+639,19238228,Female,USD,Wire Transfer,United States
+640,44781911,Female,GBP,Credit Card,UK
+641,37053820,Male,GBP,Debit Card,Britain
+642,68762532,Null,TR,Wire Transfer,Turkey
+643,80155303,M,USD,Wire Transfer,United States of America
+644,83780828,U,GBP,Debit Card,Britain
+645,97283692,F,GBP,Debit Card,Britain
+646,68128680,U,USD,Credit Card,United States
+647,43657403,Male,USD,Credit Card,United States of America
+648,36609698,Unassigned,TR,Prepaid Card,Turkey
+649,99844840,M,USD,Wire Transfer,United States
+650,44248698,Female,GBP,Credit Card,United Kingdom
+651,63262452,Unassigned,TR,Prepaid Card,Turkey
+652,15904211,Unassigned,GBP,Wire Transfer,UK
+653,28399769,M,GBP,Prepaid Card,UK
+654,81615798,Male,USD,Prepaid Card,United States of America
+655,50515284,F,Null,Prepaid Card,Unknown
+656,34929993,F,USD,Wire Transfer,United States of America
+657,27336562,M,USD,Debit Card,United States
+658,52395396,Male,TR,Wire Transfer,Turkey
+659,39235657,Female,TR,Prepaid Card,Turkey
+660,90928773,U,GBP,Debit Card,UK
+661,55491903,Null,TR,Credit Card,Turkey
+662,75024484,F,GBP,Prepaid Card,United Kingdom
+663,28772911,F,GBP,Wire Transfer,UK
+664,10309183,U,USD,Debit Card,United States
+665,78128429,M,GBP,Prepaid Card,United Kingdom
+666,68053091,U,TR,Prepaid Card,Turkey
+667,80076915,U,GBP,Prepaid Card,UK
+668,97471877,Female,TR,Credit Card,Turkey
+669,31008514,M,TR,Wire Transfer,Turkey
+670,40600390,Unassigned,TR,Prepaid Card,Turkey
+671,86557418,F,TR,Debit Card,Turkey
+672,76597705,Female,USD,Prepaid Card,United States of America
+673,58368949,F,TR,Wire Transfer,Turkey
+674,20862423,M,USD,Wire Transfer,United States
+675,58092751,M,TR,Prepaid Card,Turkey
+676,61077248,Male,GBP,Prepaid Card,UK
+677,64095472,Unassigned,TR,Credit Card,Turkey
+678,52020460,Male,TR,Debit Card,Turkey
+679,66100327,M,USD,Credit Card,United States of America
+680,25387417,Null,GBP,Wire Transfer,UK
+681,26925417,Male,USD,Prepaid Card,United States
+682,68356298,F,USD,Debit Card,United States of America
+683,61381089,Null,Null,Prepaid Card,Unknown
+684,31371034,Unassigned,TR,Debit Card,Turkey
+685,56744822,U,TR,Debit Card,Turkey
+686,71990854,Male,TR,Wire Transfer,Turkey
+687,68822536,U,TR,Debit Card,Turkey
+688,92616204,M,TR,Wire Transfer,Turkey
+689,30093054,Female,TR,Debit Card,Turkey
+690,17846693,F,GBP,Debit Card,Britain
+691,58454901,Null,GBP,Wire Transfer,Britain
+692,17805771,F,USD,Null,United States of America
+693,79092398,Female,USD,Wire Transfer,United States
+694,52249376,M,GBP,Credit Card,Britain
+695,24982569,M,USD,Credit Card,United States
+696,16292408,M,GBP,Wire Transfer,United Kingdom
+697,96883022,U,GBP,Prepaid Card,Britain
+698,65435302,M,TR,Credit Card,Turkey
+699,44428481,Unassigned,USD,Debit Card,United States of America
+700,64575902,Female,TR,Wire Transfer,Turkey
+701,93863761,Null,USD,Prepaid Card,United States
+702,75284903,Female,USD,Debit Card,United States
+703,73391943,F,USD,Debit Card,United States of America
+704,23779081,U,GBP,Wire Transfer,UK
+705,92480782,Male,GBP,Debit Card,UK
+706,29500408,Female,GBP,Credit Card,United Kingdom
+707,75326474,Unassigned,GBP,Credit Card,UK
+708,47335993,Male,USD,Debit Card,United States of America
+709,51220341,U,GBP,Credit Card,UK
+710,14673377,Unassigned,GBP,Prepaid Card,UK
+711,91190842,Null,USD,Credit Card,United States
+712,98091994,U,USD,Credit Card,United States
+713,88220474,Female,GBP,Prepaid Card,Britain
+714,73855938,Unassigned,TR,Credit Card,Turkey
+715,72597021,Unassigned,TR,Prepaid Card,Turkey
+716,57271552,Female,GBP,Credit Card,Britain
+717,43553486,F,TR,Debit Card,Turkey
+718,74201527,Male,TR,Credit Card,Turkey
+719,55950574,Female,TR,Credit Card,Turkey
+720,76690751,Male,GBP,Wire Transfer,UK
+721,56469008,F,TR,Credit Card,Turkey
+722,41481236,Male,TR,Wire Transfer,Turkey
+723,42735867,Unassigned,USD,Credit Card,United States of America
+724,70375009,Male,USD,Debit Card,United States
+725,75571696,Unassigned,GBP,Credit Card,Britain
+726,12168678,Unassigned,TR,Prepaid Card,Turkey
+727,29209960,F,GBP,Debit Card,United Kingdom
+728,80414333,M,USD,Debit Card,United States
+729,75907174,Female,TR,Wire Transfer,Turkey
+730,84491381,U,GBP,Prepaid Card,Britain
+731,37204621,Unassigned,USD,Credit Card,United States of America
+732,65797034,U,GBP,Prepaid Card,UK
+733,34441612,M,TR,Debit Card,Turkey
+734,53761001,U,USD,Debit Card,United States
+735,51659824,U,USD,Credit Card,United States
+736,81089385,Female,USD,Wire Transfer,United States of America
+737,78013299,Unassigned,USD,Prepaid Card,United States
+738,52148133,Unassigned,Null,Prepaid Card,Unknown
+739,59216870,F,USD,Wire Transfer,United States
+740,70423909,M,USD,Prepaid Card,United States of America
+741,47645871,F,GBP,Credit Card,UK
+742,15376062,Male,GBP,Debit Card,UK
+743,48737651,U,GBP,Debit Card,Britain
+744,62553857,U,USD,Debit Card,United States of America
+745,62638661,Male,GBP,Wire Transfer,United Kingdom
+746,42162735,U,TR,Wire Transfer,Turkey
+747,57332526,M,GBP,Credit Card,United Kingdom
+748,54770667,F,TR,Wire Transfer,Turkey
+749,35946075,Male,TR,Wire Transfer,Turkey
+750,36421218,M,GBP,Null,UK
+751,30398784,Female,GBP,Wire Transfer,UK
+752,52614844,U,TR,Debit Card,Turkey
+753,76372727,Male,USD,Null,United States of America
+754,82421638,U,GBP,Credit Card,United Kingdom
+755,53222110,U,USD,Wire Transfer,United States of America
+756,27640702,U,GBP,Wire Transfer,United Kingdom
+757,45886090,Unassigned,TR,Prepaid Card,Turkey
+758,60287780,F,TR,Debit Card,Turkey
+759,12359365,Male,GBP,Null,Britain
+760,21759035,M,GBP,Debit Card,Britain
+761,30448832,Female,USD,Prepaid Card,United States
+762,77562357,M,TR,Debit Card,Turkey
+763,88143217,Unassigned,GBP,Debit Card,Britain
+764,18702613,U,USD,Debit Card,United States of America
+765,60010173,Unassigned,GBP,Credit Card,UK
+766,64904952,M,GBP,Credit Card,United Kingdom
+767,70683180,Unassigned,USD,Prepaid Card,United States of America
+768,77857248,F,TR,Credit Card,Turkey
+769,21835235,Male,USD,Wire Transfer,United States of America
+770,15058619,M,USD,Wire Transfer,United States
+771,10291427,M,GBP,Wire Transfer,United Kingdom
+772,58505536,Unassigned,USD,Null,United States of America
+773,97138545,F,GBP,Debit Card,UK
+774,78334129,Unassigned,GBP,Prepaid Card,Britain
+775,60364266,F,GBP,Credit Card,United Kingdom
+776,97872984,M,USD,Wire Transfer,United States
+777,69734131,Female,USD,Wire Transfer,United States of America
+778,72163675,Male,GBP,Debit Card,UK
+779,21527395,Unassigned,USD,Debit Card,United States of America
+780,51690122,U,USD,Debit Card,United States
+781,88680277,M,USD,Credit Card,United States of America
+782,52181498,Unassigned,USD,Credit Card,United States of America
+783,28565487,Unassigned,TR,Credit Card,Turkey
+784,48041795,U,USD,Wire Transfer,United States
+785,66282137,F,Null,Debit Card,Unknown
+786,91755923,Unassigned,GBP,Prepaid Card,United Kingdom
+787,10806030,M,TR,Debit Card,Turkey
+788,90891008,Null,USD,Credit Card,United States
+789,51042398,Male,GBP,Debit Card,UK
+790,42997946,Male,TR,Debit Card,Turkey
+791,64136589,Female,GBP,Debit Card,United Kingdom
+792,68232335,Female,USD,Wire Transfer,United States of America
+793,25933679,Female,Null,Debit Card,Unknown
+794,10373873,M,GBP,Wire Transfer,UK
+795,41733476,Unassigned,TR,Prepaid Card,Turkey
+796,18715232,M,GBP,Debit Card,Britain
+797,98619708,Unassigned,USD,Credit Card,United States
+798,84788510,M,USD,Prepaid Card,United States
+799,25042497,U,USD,Debit Card,United States of America
+800,91495499,F,USD,Debit Card,United States of America
+801,93362065,Unassigned,USD,Prepaid Card,United States
+802,61222301,Unassigned,USD,Wire Transfer,United States
+803,73407633,Unassigned,USD,Credit Card,United States
+804,44490560,U,TR,Credit Card,Turkey
+805,45799386,U,Null,Prepaid Card,Unknown
+806,95243003,F,USD,Debit Card,United States
+807,32085887,Unassigned,USD,Wire Transfer,United States
+808,58127550,M,GBP,Credit Card,United Kingdom
+809,83364466,Null,Null,Wire Transfer,Unknown
+810,59740455,Male,TR,Prepaid Card,Turkey
+811,39925091,M,GBP,Prepaid Card,UK
+812,15569284,F,USD,Prepaid Card,United States of America
+813,85258631,F,GBP,Wire Transfer,Britain
+814,63071425,U,GBP,Wire Transfer,Britain
+815,46506109,U,USD,Prepaid Card,United States
+816,85559998,Female,GBP,Credit Card,UK
+817,74960181,U,GBP,Prepaid Card,Britain
+818,56412409,U,TR,Prepaid Card,Turkey
+819,70742162,U,USD,Debit Card,United States
+820,42912202,M,TR,Debit Card,Turkey
+821,70706955,U,GBP,Prepaid Card,United Kingdom
+822,17262526,M,USD,Wire Transfer,United States
+823,35331219,M,USD,Prepaid Card,United States
+824,29574870,F,USD,Debit Card,United States of America
+825,65357478,Female,TR,Prepaid Card,Turkey
+826,35085850,F,GBP,Wire Transfer,Britain
+827,69710803,Unassigned,USD,Debit Card,United States of America
+828,20118318,U,GBP,Debit Card,United Kingdom
+829,43558647,F,USD,Credit Card,United States of America
+830,19679737,Male,TR,Credit Card,Turkey
+831,96972079,U,GBP,Debit Card,UK
+832,47163661,M,TR,Credit Card,Turkey
+833,48304618,M,USD,Wire Transfer,United States of America
+834,83834774,F,TR,Credit Card,Turkey
+835,36763815,M,GBP,Debit Card,United Kingdom
+836,10404298,Male,USD,Debit Card,United States
+837,94847581,U,USD,Null,United States of America
+838,34674272,Male,GBP,Prepaid Card,United Kingdom
+839,82468737,F,GBP,Credit Card,UK
+840,73393104,M,USD,Credit Card,United States of America
+841,92235164,Male,USD,Credit Card,United States of America
+842,11173540,F,USD,Debit Card,United States of America
+843,47415097,U,USD,Debit Card,United States
+844,61527257,M,GBP,Credit Card,UK
+845,51990258,Unassigned,GBP,Prepaid Card,UK
+846,88400069,Male,USD,Wire Transfer,United States
+847,16149150,F,TR,Wire Transfer,Turkey
+848,50675348,M,TR,Wire Transfer,Turkey
+849,50508577,Female,TR,Credit Card,Turkey
+850,25568489,Unassigned,USD,Credit Card,United States
+851,48830126,Null,GBP,Wire Transfer,Britain
+852,70405181,Female,GBP,Prepaid Card,United Kingdom
+853,64662555,Female,TR,Debit Card,Turkey
+854,63456038,F,TR,Prepaid Card,Turkey
+855,12536367,U,GBP,Debit Card,UK
+856,89974111,U,TR,Credit Card,Turkey
+857,72333252,Female,GBP,Wire Transfer,UK
+858,40962778,Female,USD,Debit Card,United States
+859,69983152,Unassigned,GBP,Debit Card,Britain
+860,92486365,Unassigned,TR,Prepaid Card,Turkey
+861,84317067,F,TR,Prepaid Card,Turkey
+862,19239167,U,GBP,Debit Card,UK
+863,90258456,Unassigned,GBP,Wire Transfer,Britain
+864,95923779,F,GBP,Credit Card,United Kingdom
+865,19716612,Female,TR,Null,Turkey
+866,22357567,Female,GBP,Prepaid Card,United Kingdom
+867,67974719,Unassigned,TR,Prepaid Card,Turkey
+868,19920316,U,GBP,Wire Transfer,UK
+869,20319001,M,USD,Credit Card,United States of America
+870,13730286,U,TR,Credit Card,Turkey
+871,96526996,M,USD,Prepaid Card,United States of America
+872,88691501,Female,GBP,Debit Card,United Kingdom
+873,33980112,Female,TR,Wire Transfer,Turkey
+874,84167873,U,GBP,Debit Card,United Kingdom
+875,85826078,U,TR,Wire Transfer,Turkey
+876,99255917,Female,GBP,Credit Card,UK
+877,49605722,F,GBP,Wire Transfer,UK
+878,71439672,Male,USD,Wire Transfer,United States of America
+879,74606998,U,TR,Wire Transfer,Turkey
+880,55439907,Unassigned,GBP,Debit Card,Britain
+881,67708284,U,TR,Debit Card,Turkey
+882,32605618,M,Null,Wire Transfer,Unknown
+883,82969648,F,TR,Credit Card,Turkey
+884,50962805,Female,USD,Debit Card,United States of America
+885,77032323,U,GBP,Credit Card,UK
+886,74884230,Female,TR,Wire Transfer,Turkey
+887,95896486,Unassigned,GBP,Prepaid Card,UK
+888,96794737,U,GBP,Debit Card,UK
+889,77178014,U,TR,Credit Card,Turkey
+890,65906882,Unassigned,USD,Debit Card,United States
+891,49986208,M,USD,Debit Card,United States of America
+892,26031233,F,TR,Prepaid Card,Turkey
+893,61416908,F,USD,Credit Card,United States
+894,73730511,Female,TR,Prepaid Card,Turkey
+895,40044134,Female,GBP,Wire Transfer,Britain
+896,30460198,F,USD,Wire Transfer,United States of America
+897,97309018,U,TR,Debit Card,Turkey
+898,12796789,F,TR,Prepaid Card,Turkey
+899,83700042,Unassigned,GBP,Credit Card,United Kingdom
+900,97259409,M,TR,Prepaid Card,Turkey
+901,38422120,F,USD,Wire Transfer,United States
+902,32790080,M,USD,Prepaid Card,United States of America
+903,25348234,U,GBP,Credit Card,United Kingdom
+904,25947385,U,GBP,Prepaid Card,UK
+905,20977854,Male,TR,Debit Card,Turkey
+906,45478094,Female,TR,Debit Card,Turkey
+907,20172383,M,GBP,Credit Card,UK
+908,11650574,Female,TR,Prepaid Card,Turkey
+909,20505499,Female,TR,Wire Transfer,Turkey
+910,46804905,M,GBP,Credit Card,United Kingdom
+911,31273419,M,USD,Prepaid Card,United States
+912,10158238,M,TR,Wire Transfer,Turkey
+913,51653702,M,GBP,Credit Card,Britain
+914,45647167,Female,USD,Prepaid Card,United States of America
+915,88974980,Female,USD,Debit Card,United States
+916,63386472,Female,GBP,Wire Transfer,Britain
+917,59149245,F,USD,Wire Transfer,United States
+918,65162070,M,TR,Prepaid Card,Turkey
+919,41218149,Male,USD,Credit Card,United States of America
+920,23603331,Unassigned,TR,Prepaid Card,Turkey
+921,93761560,Female,TR,Wire Transfer,Turkey
+922,97765336,Female,TR,Credit Card,Turkey
+923,85504222,M,GBP,Wire Transfer,Britain
+924,67466284,Male,USD,Prepaid Card,United States of America
+925,73498682,Male,GBP,Null,Britain
+926,88841828,Male,USD,Debit Card,United States of America
+927,54573111,U,GBP,Debit Card,UK
+928,45660310,Male,USD,Null,United States of America
+929,69049663,M,TR,Wire Transfer,Turkey
+930,59544784,Male,Null,Wire Transfer,Unknown
+931,71907197,Unassigned,USD,Prepaid Card,United States
+932,16747738,F,USD,Debit Card,United States
+933,50460196,M,TR,Debit Card,Turkey
+934,24428472,Male,GBP,Prepaid Card,UK
+935,92668316,Male,USD,Wire Transfer,United States
+936,63689505,U,USD,Credit Card,United States
+937,62979983,M,TR,Debit Card,Turkey
+938,52063359,Unassigned,TR,Wire Transfer,Turkey
+939,29229283,Female,USD,Prepaid Card,United States
+940,71209798,Female,USD,Wire Transfer,United States of America
+941,26504758,M,GBP,Wire Transfer,United Kingdom
+942,96451007,U,TR,Credit Card,Turkey
+943,50979382,F,GBP,Wire Transfer,Britain
+944,57734074,M,GBP,Debit Card,UK
+945,55827203,M,TR,Prepaid Card,Turkey
+946,80290360,Unassigned,GBP,Credit Card,Britain
+947,93586682,M,GBP,Wire Transfer,Britain
+948,34327271,M,TR,Prepaid Card,Turkey
+949,26932825,F,USD,Prepaid Card,United States
+950,65510990,M,GBP,Debit Card,United Kingdom
+951,25187917,Male,USD,Prepaid Card,United States of America
+952,93995112,U,GBP,Prepaid Card,Britain
+953,27184158,Unassigned,TR,Debit Card,Turkey
+954,50352083,Male,USD,Wire Transfer,United States
+955,85267769,U,USD,Prepaid Card,United States
+956,83800716,M,USD,Credit Card,United States of America
+957,61925599,M,GBP,Credit Card,UK
+958,90371352,Unassigned,USD,Wire Transfer,United States
+959,27838290,Female,TR,Prepaid Card,Turkey
+960,33453289,Unassigned,TR,Debit Card,Turkey
+961,57226756,M,TR,Prepaid Card,Turkey
+962,63695969,U,GBP,Prepaid Card,United Kingdom
+963,28922477,Null,USD,Debit Card,United States
+964,19853421,F,GBP,Prepaid Card,UK
+965,14674936,Female,TR,Debit Card,Turkey
+966,66109650,U,GBP,Credit Card,UK
+967,75725948,Unassigned,GBP,Prepaid Card,United Kingdom
+968,83157436,Male,USD,Debit Card,United States of America
+969,42771500,U,USD,Wire Transfer,United States
+970,40966595,F,GBP,Null,United Kingdom
+971,87964800,Male,GBP,Debit Card,United Kingdom
+972,95083581,U,Null,Credit Card,Unknown
+973,42835884,Male,USD,Credit Card,United States of America
+974,85162727,Male,TR,Credit Card,Turkey
+975,24732000,F,GBP,Prepaid Card,Britain
+976,62236885,Male,USD,Wire Transfer,United States of America
+977,61431506,M,USD,Null,United States of America
+978,64383851,Male,TR,Wire Transfer,Turkey
+979,80278377,U,Null,Credit Card,Unknown
+980,11659076,F,TR,Prepaid Card,Turkey
+981,24278560,F,GBP,Prepaid Card,United Kingdom
+982,98013326,M,USD,Credit Card,United States of America
+983,83693231,U,TR,Credit Card,Turkey
+984,19362831,Male,USD,Wire Transfer,United States of America
+985,13237774,Female,TR,Debit Card,Turkey
+986,63901433,F,TR,Null,Turkey
+987,45651169,F,TR,Credit Card,Turkey
+988,46297897,Female,USD,Wire Transfer,United States
+989,15029542,Unassigned,TR,Credit Card,Turkey
+990,14816959,F,USD,Wire Transfer,United States
+991,35455437,Unassigned,TR,Wire Transfer,Turkey
+992,94598160,U,USD,Credit Card,United States of America
+993,87899933,Female,GBP,Prepaid Card,Britain
+994,40194308,F,USD,Credit Card,United States
+995,87467481,U,TR,Credit Card,Turkey
+996,69602102,F,USD,Credit Card,United States of America
+997,38039908,Female,TR,Wire Transfer,Turkey
+998,78158573,Unassigned,USD,Credit Card,United States
+999,27748419,F,TR,Wire Transfer,Turkey
