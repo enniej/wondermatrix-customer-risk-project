@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/94959981-6820-4e33-945f-82637199e16d)
 
 
-This project was developed in response to a technical assessment from WonderMatrix.  
+This project was developed in response to an assessment of WonderMatrix a product of a B2B iGaming company.  
 The objective was to analyse customer betting behaviour and:
 
 1. Categorise customers into "risky" and "non-risky" groups.
